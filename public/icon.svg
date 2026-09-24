@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#e0f9eb"/><stop offset="1" stop-color="#baebe1"/></linearGradient></defs>
+  <rect width="1024" height="1024" rx="230" fill="url(#bg)"/>
+  <circle cx="850" cy="115" r="295" fill="#549ae8" opacity=".2"/>
+  <circle cx="110" cy="900" r="275" fill="#46be8b" opacity=".2"/>
+  <rect x="172" y="178" width="680" height="668" rx="170" fill="white" opacity=".95"/>
+  <circle cx="512" cy="455" r="225" fill="none" stroke="#dbebe6" stroke-width="48"/>
+  <path d="M512 230a225 225 0 1 1-211 147" fill="none" stroke="#2dbe7e" stroke-width="52" stroke-linecap="round"/>
+  <path d="M392 457l80 75 166-174" fill="none" stroke="#27a66f" stroke-width="58" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M398 640c12-58 90-67 122-28 31 38 4 80-40 116l-78 64h135" fill="none" stroke="#25524b" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M600 635l58-44v201M600 792h116" fill="none" stroke="#25524b" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(348 780)"><circle cx="13" cy="13" r="13" fill="#2dbe7e"/><circle cx="68" cy="13" r="13" fill="#2dbe7e"/><circle cx="123" cy="13" r="13" fill="#2dbe7e"/><circle cx="178" cy="13" r="13" fill="#2dbe7e"/><circle cx="233" cy="13" r="13" fill="#2dbe7e"/><circle cx="288" cy="13" r="13" fill="#5f96e8"/><circle cx="343" cy="13" r="13" fill="#5f96e8"/></g>
+</svg>
